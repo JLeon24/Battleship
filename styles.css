@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-div#board {
+#board {
   position: relative;
   width: 1024px;
   height: 863px;
@@ -10,7 +10,7 @@ div#board {
   background: url("images/board.jpg") no-repeat;
 }
 
-div#messageArea {
+#messageArea {
   position: absolute;
   top: 0px;
   left: 0px;
